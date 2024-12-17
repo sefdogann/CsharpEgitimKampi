@@ -1,39 +1,38 @@
-# 🚀 C# Eğitim Kampı Projeleri
-## Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, programlama kavramlarını öğrenme ve uygulama yeteneğimi geliştirme sürecimde önemli bir basamak oldu. Detayları aşağıda bulabilirsiniz.
+# 🚀 C# Training Camp Projects
+## This repo contains the first 8 projects I completed during the C# Bootcamp, instructed by Murat Yücedağ. Each project was an important step in my process of learning and improving my ability to apply programming concepts. You can find the details below.
+## 📌 Projects
+**✨ Project 1: Hello World!** 
+**Printing text to the console** <br/>
+*I learned the basic printing operations in C# language using Console.WriteLine() command..* 🌍
 
-## 📌 Projeler
-**✨ Proje 1: Merhaba Dünya!** 
-**Konsola yazı yazdırma** <br/>
-*Console.WriteLine() komutunu kullanarak, C# dilindeki temel yazdırma işlemlerini öğrendim.* 🌍
+# ✨ Project 2: Variables
+**Data types and variable definition** <br/>
+*I created variables and performed operations on different data types such as int, string, double..* 🔢
 
-# ✨ Proje 2: Değişkenler
-**Veri türleri ve değişken tanımlama** <br/>
-*int, string, double gibi farklı veri türlerinde değişkenler oluşturup işlemler yaptım.* 🔢
+# ✨ Project 3: Arrays
+*Data manipulation with arrays and loops*<br/>
+*I learned how to store multiple values ​​in an array and access these values ​​with loops..* 🧩
 
-# ✨ Proje 3: Diziler (Arrays)
-*Diziler ve döngülerle veri işleme*<br/>
-*Bir dizi içerisinde çoklu değerleri depolama ve döngülerle bu değerlere erişmeyi öğrendim.* 🧩
+# ✨ Project 4: Decision Structures (If-Else)
+**Conditional statements and decision structures**<br/>
+*I created decision mechanisms using if, else if and else structures..* ⚖️
 
-# ✨ Proje 4: Karar Yapıları (If-Else)
-**Konu: Şart ifadeleri ve karar yapıları**<br/>
-*if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum.* ⚖️
+# ✨ Project 5: Loops
+**For, while and foreach loops**<br/>
+*I automated repetitive processes with loops and processed large data sets.* 🔄
 
-# ✨ Proje 5: Döngüler (Loops)
-**For, while ve foreach döngüleri**<br/>
-*Döngülerle tekrarlayan işlemleri otomatikleştirdim ve büyük veri gruplarını işledim.* 🔄
+# ✨ Project 6: Methods
+**Functional programming**<br/>
+*To make the codes more organized, I created methods that take parameters and return results* 🛠️
 
-# ✨ Proje 6: Metotlar (Methods)
-**Fonksiyonel programlama**<br/>
-Açıklama: Kodları daha düzenli hale getirmek için parametre alan ve sonuç döndüren metotlar oluşturdum. 🛠️
+# ✨ Project 7: Foreach Loop and Exam System
+**Foreach loop and avarage calculation**<br/>
+*I simulated an exam system that takes students' exam grades and calculates their averages..* 🎓
 
-# ✨ Proje 7: Foreach Döngüsü ve Sınav Sistemi
-**Foreach döngüsü ve ortalama hesaplama**<br/>
-*Öğrencilerin sınav notlarını alarak ortalamalarını hesaplayan bir sınav sistemi simülasyonu yaptım.* 🎓
+# ✨Project 8: Functions That Return Values
+**Returning data from functions**<br/>
+*I developed functions that process the data I receive from the user and return the results..* 🎗️
 
-# ✨Proje 8: Geriye Değer Döndüren Fonksiyonlar
-**Fonksiyonlardan veri döndürme**<br/>
-*Kullanıcıdan aldığım verileri işleyip sonuçları geri döndüren fonksiyonlar geliştirdim.* 🎗️
-
-# 🚀 İleriye Dönük Planlar
-**Bu projeler, C# diline dair temel kavramları öğrenmemi sağladı. İlerleyen projelerde daha karmaşık yapılarla bu bilgileri pekiştirmeyi hedefliyorum.**
+# 🚀 Forward Looking Plans
+**These projects helped me learn the basic concepts of the C# language. I aim to reinforce this knowledge with more complex structures in future projects.**
 
